@@ -35,6 +35,6 @@ SNR evaluation:
 
 The improvement of the SNR – Sound to Noise Ratio confirms the success of the filtering process as the value increases passing the original SNR value.
 
-## Conclution 
+## Conclusion 
 The applied FIR band-stop filter significantly improved the quality of the audio by reducing noise in the 150–200 Hz band while maintaining the integrity of the speech. Further improvements could include adaptive filtering or spectral subtraction for broader noise types.
 
