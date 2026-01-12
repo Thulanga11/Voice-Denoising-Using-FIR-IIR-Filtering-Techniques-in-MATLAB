@@ -32,6 +32,7 @@ Comparison between the time domain plots of the audios:
 
 SNR evaluation:
 <img width="520" height="99" alt="image" src="https://github.com/user-attachments/assets/b50d1b35-6f60-4a0e-963a-4373978fdd59" />
+
 The improvement of the SNR – Sound to Noise Ratio confirms the success of the filtering process as the value increases passing the original SNR value.
 
 ## Conclution 
